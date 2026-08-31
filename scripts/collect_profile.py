@@ -2,13 +2,28 @@
 """
 Antigravity Profile Collector & Builder
 Parses transcripts in ~/.gemini/antigravity/brain/*/
-Generates webview/profile_data.json and webview/profile.html
+Generates webview/profile_data.json and updates webview/profile.html
 """
 
 import os
+import re
 import json
 import glob
 from datetime import datetime, timedelta
+
+def format_num(n):
+    if n >= 1000000:
+        return f"{n/1000000:.1f}M"
+    if n >= 1000:
+        return f"{n/1000:.1f}K"
+    return f"{n:,}"
+
+def format_date_str(d_str):
+    try:
+        dt = datetime.strptime(d_str, '%Y-%m-%d')
+        return dt.strftime('%b %d, %Y')
+    except Exception:
+        return d_str
 
 def main():
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -29,14 +44,22 @@ def main():
     commands_run = 0
     files_modified = 0
 
-    mcp_usage = {
-        '@blender': 0,
-        '@playwright': 0,
-        '@after-effects': 0,
-        '@stitch': 0,
-        '@netlify': 0,
-        '@sequential-thinking': 0,
-        '@github': 0
+    mcp_counts = {}
+
+    mcp_icons = {
+        '@blender': '🎨',
+        '@playwright': '🌐',
+        '@after-effects': '✨',
+        '@stitch': '🧵',
+        '@netlify': '⚡',
+        '@sequential-thinking': '🧠',
+        '@github': '🐙',
+        '@better-icons': '💎',
+        '@chrome-devtools': '🔍',
+        '@chrome-devtools-mcp': '🔍',
+        '@context7': '📚',
+        '@firebase': '🔥',
+        '@firebase-mcp-server': '🔥'
     }
 
     for path in transcripts:
@@ -79,23 +102,60 @@ def main():
 
                 # Track Tool Calls
                 for call in step.get('tool_calls', []):
-                    name = call.get('name', '') if isinstance(call, dict) else str(call)
+                    if isinstance(call, dict):
+                        name = call.get('name', '')
+                        args = call.get('args', {})
+                        if isinstance(args, str):
+                            try:
+                                args = json.loads(args)
+                            except Exception:
+                                pass
+                        sname = args.get('ServerName', '') if isinstance(args, dict) else ''
+                    else:
+                        name = str(call)
+                        sname = ''
+
+                    sname_clean = sname.strip('"\'') if isinstance(sname, str) else ''
+
                     if 'command' in name:
                         commands_run += 1
-                    if 'file' in name or 'write' in name or 'replace' in name:
+                    if any(x in name for x in ['file', 'write', 'replace', 'create']):
                         files_modified += 1
-                    for mcp_key in mcp_usage:
-                        clean_k = mcp_key.replace('@', '')
-                        if clean_k in name.lower():
-                            mcp_usage[mcp_key] += 1
+
+                    # Count MCP tool usage
+                    if name == 'call_mcp_tool' and sname_clean:
+                        key = f"@{sname_clean}"
+                        mcp_counts[key] = mcp_counts.get(key, 0) + 1
+                    elif name.startswith('mcp_'):
+                        parts = name.split('_')
+                        if len(parts) > 1:
+                            key = f"@{parts[1]}"
+                            mcp_counts[key] = mcp_counts.get(key, 0) + 1
+                    else:
+                        for known_mcp in mcp_icons:
+                            clean_k = known_mcp.replace('@', '')
+                            if clean_k in name.lower():
+                                mcp_counts[known_mcp] = mcp_counts.get(known_mcp, 0) + 1
+                                break
 
         if session_tokens > peak_tokens:
             peak_tokens = session_tokens
         if session_active_sec > longest_active_sec:
             longest_active_sec = session_active_sec
 
+    # Count Connected MCP servers and Installed Skills
+    mcp_dir = os.path.expanduser('~/.gemini/antigravity/mcp')
+    connected_mcp_count = len([d for d in glob.glob(os.path.join(mcp_dir, '*')) if os.path.isdir(d)]) if os.path.exists(mcp_dir) else len(mcp_counts)
+    if connected_mcp_count == 0 and mcp_counts:
+        connected_mcp_count = len(mcp_counts)
+
+    skills_paths = glob.glob(os.path.expanduser('~/.gemini/config/plugins/**/SKILL.md'), recursive=True) + \
+                   glob.glob(os.path.expanduser('~/.gemini/antigravity/builtin/skills/**/SKILL.md'), recursive=True)
+    skills_installed_count = len(set(skills_paths)) if skills_paths else 52
+
     # 2. Build 52-week Heatmap Grid aligned to today
     today = datetime.now()
+    today_str = today.strftime('%Y-%m-%d')
     start_date = today - timedelta(days=52 * 7)
     while start_date.weekday() != 6: # Sunday
         start_date -= timedelta(days=1)
@@ -109,7 +169,8 @@ def main():
         for _ in range(7):
             d_str = curr.strftime('%Y-%m-%d')
             t_count = day_tokens.get(d_str, 0)
-            if curr <= today:
+            in_range = curr <= today
+            if in_range:
                 cumulative += t_count
 
             if t_count == 0:
@@ -125,9 +186,13 @@ def main():
 
             week.append({
                 'date': d_str,
+                'formattedDate': format_date_str(d_str),
                 'tokens': t_count,
+                'formattedTokens': format_num(t_count) if t_count > 0 else '0',
                 'level': lvl,
-                'cumulative': cumulative
+                'cumulative': cumulative,
+                'formattedCumulative': format_num(cumulative) if cumulative > 0 else '0',
+                'inRange': in_range
             })
             curr += timedelta(days=1)
         weeks.append(week)
@@ -141,7 +206,6 @@ def main():
     curr_run = 0
 
     if sorted_days:
-        # Longest streak calculation
         prev_date = None
         for d_s in sorted_days:
             d_obj = datetime.strptime(d_s, '%Y-%m-%d').date()
@@ -153,7 +217,6 @@ def main():
                 longest_streak = curr_run
             prev_date = d_obj
 
-        # Current streak from today backwards
         check_date = today.date()
         while check_date.strftime('%Y-%m-%d') in day_tokens and day_tokens[check_date.strftime('%Y-%m-%d')] > 0:
             current_streak += 1
@@ -164,34 +227,25 @@ def main():
                 current_streak += 1
                 check_date -= timedelta(days=1)
 
-    # Defaults if no logs exist
     if total_chats == 0:
         current_streak = 0
         longest_streak = 0
-
-    # Format numbers
-    def fmt_num(n):
-        if n >= 1000000:
-            return f"{n/1000000:.1f}M"
-        if n >= 1000:
-            return f"{n/1000:.1f}K"
-        return str(n)
 
     hours = int(longest_active_sec // 3600)
     minutes = int((longest_active_sec % 3600) // 60)
     longest_chat_fmt = f"{hours}h {minutes:02d}m" if hours > 0 else f"{minutes}m"
 
-    plugin_list = [
-        {'name': '@blender', 'runs': mcp_usage['@blender'], 'icon': '🎨'},
-        {'name': '@playwright', 'runs': mcp_usage['@playwright'], 'icon': '🌐'},
-        {'name': '@after-effects', 'runs': mcp_usage['@after-effects'], 'icon': '✨'},
-        {'name': '@stitch', 'runs': mcp_usage['@stitch'], 'icon': '🧵'},
-        {'name': '@netlify', 'runs': mcp_usage['@netlify'], 'icon': '⚡'},
-        {'name': '@sequential-thinking', 'runs': mcp_usage['@sequential-thinking'], 'icon': '🧠'},
-        {'name': '@github', 'runs': mcp_usage['@github'], 'icon': '🐙'}
-    ]
-    plugin_list = [p for p in plugin_list if p['runs'] > 0]
+    plugin_list = []
+    for k, runs in mcp_counts.items():
+        if runs > 0:
+            plugin_list.append({
+                'name': k,
+                'runs': runs,
+                'icon': mcp_icons.get(k, '🔌')
+            })
     plugin_list.sort(key=lambda x: x['runs'], reverse=True)
+    if not plugin_list:
+        plugin_list = [{'name': '@antigravity', 'runs': 1, 'icon': '▲'}]
 
     # Preserve user customization if already set
     out_json = os.path.join(webview_dir, 'profile_data.json')
@@ -215,22 +269,22 @@ def main():
         'user': user_info,
         'metrics': {
             'lifetimeTokens': total_tokens,
-            'lifetimeTokensFormatted': fmt_num(total_tokens),
+            'lifetimeTokensFormatted': format_num(total_tokens),
             'peakTokens': peak_tokens,
-            'peakTokensFormatted': fmt_num(peak_tokens),
+            'peakTokensFormatted': format_num(peak_tokens),
             'longestChatSeconds': longest_active_sec,
             'longestChatFormatted': longest_chat_fmt,
             'currentStreak': max(1, current_streak) if total_chats > 0 else 0,
             'longestStreak': max(1, longest_streak) if total_chats > 0 else 0
         },
         'insights': {
-            'mcpConnected': f"{max(1, len(plugin_list))} servers" if total_chats > 0 else "0 servers",
-            'skillsInstalled': '52 skills',
+            'mcpConnected': f"{connected_mcp_count} servers",
+            'skillsInstalled': f"{skills_installed_count} skills",
             'commandsRun': f"{commands_run} commands",
             'filesModified': f"{files_modified} files",
             'totalChats': f"{total_chats} chats"
         },
-        'plugins': plugin_list if plugin_list else [{'name': '@antigravity', 'runs': 1, 'icon': '▲'}],
+        'plugins': plugin_list,
         'heatmap': {
             'weeks': weeks,
             'shareWeeks': weeks[-26:]
@@ -241,6 +295,29 @@ def main():
     with open(out_json, 'w', encoding='utf-8') as f:
         json.dump(profile_data, f, indent=2, ensure_ascii=False)
     print(f"Successfully generated {out_json}")
+
+    # Update profile.html inline data & TODAY_STR
+    html_path = os.path.join(webview_dir, 'profile.html')
+    if os.path.exists(html_path):
+        with open(html_path, 'r', encoding='utf-8') as f_html:
+            html_content = f_html.read()
+
+        json_str = json.dumps(profile_data, ensure_ascii=False)
+        html_content = re.sub(
+            r'const profileData = \{.*?\};',
+            f'const profileData = {json_str};',
+            html_content,
+            flags=re.DOTALL
+        )
+        html_content = re.sub(
+            r'const TODAY_STR = ".*?";',
+            f'const TODAY_STR = "{today_str}";',
+            html_content
+        )
+
+        with open(html_path, 'w', encoding='utf-8') as f_html:
+            f_html.write(html_content)
+        print(f"Successfully updated embedded profile data in {html_path}")
 
 if __name__ == '__main__':
     main()
