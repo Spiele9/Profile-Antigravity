@@ -61,6 +61,5625 @@
     }
   ],
   "heatmap": {
-    "weeks": []
+    "weeks": [
+      [
+        {
+          "date": "2025-08-31",
+          "formattedDate": "Aug 31, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-01",
+          "formattedDate": "Sep 01, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-02",
+          "formattedDate": "Sep 02, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-03",
+          "formattedDate": "Sep 03, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-04",
+          "formattedDate": "Sep 04, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-05",
+          "formattedDate": "Sep 05, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-06",
+          "formattedDate": "Sep 06, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-09-07",
+          "formattedDate": "Sep 07, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-08",
+          "formattedDate": "Sep 08, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-09",
+          "formattedDate": "Sep 09, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-10",
+          "formattedDate": "Sep 10, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-11",
+          "formattedDate": "Sep 11, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-12",
+          "formattedDate": "Sep 12, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-13",
+          "formattedDate": "Sep 13, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-09-14",
+          "formattedDate": "Sep 14, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-15",
+          "formattedDate": "Sep 15, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-16",
+          "formattedDate": "Sep 16, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-17",
+          "formattedDate": "Sep 17, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-18",
+          "formattedDate": "Sep 18, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-19",
+          "formattedDate": "Sep 19, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-20",
+          "formattedDate": "Sep 20, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-09-21",
+          "formattedDate": "Sep 21, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-22",
+          "formattedDate": "Sep 22, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-23",
+          "formattedDate": "Sep 23, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-24",
+          "formattedDate": "Sep 24, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-25",
+          "formattedDate": "Sep 25, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-26",
+          "formattedDate": "Sep 26, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-27",
+          "formattedDate": "Sep 27, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-09-28",
+          "formattedDate": "Sep 28, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-29",
+          "formattedDate": "Sep 29, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-09-30",
+          "formattedDate": "Sep 30, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-01",
+          "formattedDate": "Oct 01, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-02",
+          "formattedDate": "Oct 02, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-03",
+          "formattedDate": "Oct 03, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-04",
+          "formattedDate": "Oct 04, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-10-05",
+          "formattedDate": "Oct 05, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-06",
+          "formattedDate": "Oct 06, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-07",
+          "formattedDate": "Oct 07, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-08",
+          "formattedDate": "Oct 08, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-09",
+          "formattedDate": "Oct 09, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-10",
+          "formattedDate": "Oct 10, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-11",
+          "formattedDate": "Oct 11, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-10-12",
+          "formattedDate": "Oct 12, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-13",
+          "formattedDate": "Oct 13, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-14",
+          "formattedDate": "Oct 14, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-15",
+          "formattedDate": "Oct 15, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-16",
+          "formattedDate": "Oct 16, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-17",
+          "formattedDate": "Oct 17, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-18",
+          "formattedDate": "Oct 18, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-10-19",
+          "formattedDate": "Oct 19, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-20",
+          "formattedDate": "Oct 20, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-21",
+          "formattedDate": "Oct 21, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-22",
+          "formattedDate": "Oct 22, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-23",
+          "formattedDate": "Oct 23, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-24",
+          "formattedDate": "Oct 24, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-25",
+          "formattedDate": "Oct 25, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-10-26",
+          "formattedDate": "Oct 26, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-27",
+          "formattedDate": "Oct 27, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-28",
+          "formattedDate": "Oct 28, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-29",
+          "formattedDate": "Oct 29, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-30",
+          "formattedDate": "Oct 30, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-10-31",
+          "formattedDate": "Oct 31, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-01",
+          "formattedDate": "Nov 01, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-11-02",
+          "formattedDate": "Nov 02, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-03",
+          "formattedDate": "Nov 03, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-04",
+          "formattedDate": "Nov 04, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-05",
+          "formattedDate": "Nov 05, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-06",
+          "formattedDate": "Nov 06, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-07",
+          "formattedDate": "Nov 07, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-08",
+          "formattedDate": "Nov 08, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-11-09",
+          "formattedDate": "Nov 09, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-10",
+          "formattedDate": "Nov 10, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-11",
+          "formattedDate": "Nov 11, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-12",
+          "formattedDate": "Nov 12, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-13",
+          "formattedDate": "Nov 13, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-14",
+          "formattedDate": "Nov 14, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-15",
+          "formattedDate": "Nov 15, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-11-16",
+          "formattedDate": "Nov 16, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-17",
+          "formattedDate": "Nov 17, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-18",
+          "formattedDate": "Nov 18, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-19",
+          "formattedDate": "Nov 19, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-20",
+          "formattedDate": "Nov 20, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-21",
+          "formattedDate": "Nov 21, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-22",
+          "formattedDate": "Nov 22, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-11-23",
+          "formattedDate": "Nov 23, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-24",
+          "formattedDate": "Nov 24, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-25",
+          "formattedDate": "Nov 25, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-26",
+          "formattedDate": "Nov 26, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-27",
+          "formattedDate": "Nov 27, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-28",
+          "formattedDate": "Nov 28, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-11-29",
+          "formattedDate": "Nov 29, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-11-30",
+          "formattedDate": "Nov 30, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-01",
+          "formattedDate": "Dec 01, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-02",
+          "formattedDate": "Dec 02, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-03",
+          "formattedDate": "Dec 03, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-04",
+          "formattedDate": "Dec 04, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-05",
+          "formattedDate": "Dec 05, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-06",
+          "formattedDate": "Dec 06, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-12-07",
+          "formattedDate": "Dec 07, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-08",
+          "formattedDate": "Dec 08, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-09",
+          "formattedDate": "Dec 09, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-10",
+          "formattedDate": "Dec 10, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-11",
+          "formattedDate": "Dec 11, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-12",
+          "formattedDate": "Dec 12, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-13",
+          "formattedDate": "Dec 13, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-12-14",
+          "formattedDate": "Dec 14, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-15",
+          "formattedDate": "Dec 15, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-16",
+          "formattedDate": "Dec 16, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-17",
+          "formattedDate": "Dec 17, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-18",
+          "formattedDate": "Dec 18, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-19",
+          "formattedDate": "Dec 19, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-20",
+          "formattedDate": "Dec 20, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-12-21",
+          "formattedDate": "Dec 21, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-22",
+          "formattedDate": "Dec 22, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-23",
+          "formattedDate": "Dec 23, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-24",
+          "formattedDate": "Dec 24, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-25",
+          "formattedDate": "Dec 25, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-26",
+          "formattedDate": "Dec 26, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-27",
+          "formattedDate": "Dec 27, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2025-12-28",
+          "formattedDate": "Dec 28, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-29",
+          "formattedDate": "Dec 29, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-30",
+          "formattedDate": "Dec 30, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2025-12-31",
+          "formattedDate": "Dec 31, 2025",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-01",
+          "formattedDate": "Jan 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-02",
+          "formattedDate": "Jan 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-03",
+          "formattedDate": "Jan 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-01-04",
+          "formattedDate": "Jan 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-05",
+          "formattedDate": "Jan 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-06",
+          "formattedDate": "Jan 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-07",
+          "formattedDate": "Jan 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-08",
+          "formattedDate": "Jan 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-09",
+          "formattedDate": "Jan 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-10",
+          "formattedDate": "Jan 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-01-11",
+          "formattedDate": "Jan 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-12",
+          "formattedDate": "Jan 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-13",
+          "formattedDate": "Jan 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-14",
+          "formattedDate": "Jan 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-15",
+          "formattedDate": "Jan 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-16",
+          "formattedDate": "Jan 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-17",
+          "formattedDate": "Jan 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-01-18",
+          "formattedDate": "Jan 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-19",
+          "formattedDate": "Jan 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-20",
+          "formattedDate": "Jan 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-21",
+          "formattedDate": "Jan 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-22",
+          "formattedDate": "Jan 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-23",
+          "formattedDate": "Jan 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-24",
+          "formattedDate": "Jan 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-01-25",
+          "formattedDate": "Jan 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-26",
+          "formattedDate": "Jan 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-27",
+          "formattedDate": "Jan 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-28",
+          "formattedDate": "Jan 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-29",
+          "formattedDate": "Jan 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-30",
+          "formattedDate": "Jan 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-01-31",
+          "formattedDate": "Jan 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-02-01",
+          "formattedDate": "Feb 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-02",
+          "formattedDate": "Feb 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-03",
+          "formattedDate": "Feb 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-04",
+          "formattedDate": "Feb 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-05",
+          "formattedDate": "Feb 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-06",
+          "formattedDate": "Feb 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-07",
+          "formattedDate": "Feb 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-02-08",
+          "formattedDate": "Feb 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-09",
+          "formattedDate": "Feb 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-10",
+          "formattedDate": "Feb 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-11",
+          "formattedDate": "Feb 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-12",
+          "formattedDate": "Feb 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-13",
+          "formattedDate": "Feb 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-14",
+          "formattedDate": "Feb 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-02-15",
+          "formattedDate": "Feb 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-16",
+          "formattedDate": "Feb 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-17",
+          "formattedDate": "Feb 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-18",
+          "formattedDate": "Feb 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-19",
+          "formattedDate": "Feb 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-20",
+          "formattedDate": "Feb 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-21",
+          "formattedDate": "Feb 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-02-22",
+          "formattedDate": "Feb 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-23",
+          "formattedDate": "Feb 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-24",
+          "formattedDate": "Feb 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-25",
+          "formattedDate": "Feb 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-26",
+          "formattedDate": "Feb 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-27",
+          "formattedDate": "Feb 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-02-28",
+          "formattedDate": "Feb 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-01",
+          "formattedDate": "Mar 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-02",
+          "formattedDate": "Mar 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-03",
+          "formattedDate": "Mar 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-04",
+          "formattedDate": "Mar 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-05",
+          "formattedDate": "Mar 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-06",
+          "formattedDate": "Mar 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-07",
+          "formattedDate": "Mar 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-08",
+          "formattedDate": "Mar 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-09",
+          "formattedDate": "Mar 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-10",
+          "formattedDate": "Mar 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-11",
+          "formattedDate": "Mar 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-12",
+          "formattedDate": "Mar 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-13",
+          "formattedDate": "Mar 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-14",
+          "formattedDate": "Mar 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-15",
+          "formattedDate": "Mar 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-16",
+          "formattedDate": "Mar 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-17",
+          "formattedDate": "Mar 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-18",
+          "formattedDate": "Mar 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-19",
+          "formattedDate": "Mar 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-20",
+          "formattedDate": "Mar 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-21",
+          "formattedDate": "Mar 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-22",
+          "formattedDate": "Mar 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-23",
+          "formattedDate": "Mar 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-24",
+          "formattedDate": "Mar 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-25",
+          "formattedDate": "Mar 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-26",
+          "formattedDate": "Mar 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-27",
+          "formattedDate": "Mar 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-28",
+          "formattedDate": "Mar 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-29",
+          "formattedDate": "Mar 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-30",
+          "formattedDate": "Mar 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-31",
+          "formattedDate": "Mar 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-01",
+          "formattedDate": "Apr 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-02",
+          "formattedDate": "Apr 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-03",
+          "formattedDate": "Apr 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-04",
+          "formattedDate": "Apr 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-05",
+          "formattedDate": "Apr 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-06",
+          "formattedDate": "Apr 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-07",
+          "formattedDate": "Apr 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-08",
+          "formattedDate": "Apr 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-09",
+          "formattedDate": "Apr 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-10",
+          "formattedDate": "Apr 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-11",
+          "formattedDate": "Apr 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-12",
+          "formattedDate": "Apr 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-13",
+          "formattedDate": "Apr 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-14",
+          "formattedDate": "Apr 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-15",
+          "formattedDate": "Apr 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-16",
+          "formattedDate": "Apr 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-17",
+          "formattedDate": "Apr 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-18",
+          "formattedDate": "Apr 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-19",
+          "formattedDate": "Apr 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-20",
+          "formattedDate": "Apr 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-21",
+          "formattedDate": "Apr 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-22",
+          "formattedDate": "Apr 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-23",
+          "formattedDate": "Apr 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-24",
+          "formattedDate": "Apr 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-25",
+          "formattedDate": "Apr 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-26",
+          "formattedDate": "Apr 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-27",
+          "formattedDate": "Apr 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-28",
+          "formattedDate": "Apr 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-29",
+          "formattedDate": "Apr 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-30",
+          "formattedDate": "Apr 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-01",
+          "formattedDate": "May 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-02",
+          "formattedDate": "May 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-03",
+          "formattedDate": "May 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-04",
+          "formattedDate": "May 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-05",
+          "formattedDate": "May 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-06",
+          "formattedDate": "May 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-07",
+          "formattedDate": "May 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-08",
+          "formattedDate": "May 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-09",
+          "formattedDate": "May 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-10",
+          "formattedDate": "May 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-11",
+          "formattedDate": "May 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-12",
+          "formattedDate": "May 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-13",
+          "formattedDate": "May 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-14",
+          "formattedDate": "May 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-15",
+          "formattedDate": "May 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-16",
+          "formattedDate": "May 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-17",
+          "formattedDate": "May 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-18",
+          "formattedDate": "May 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-19",
+          "formattedDate": "May 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-20",
+          "formattedDate": "May 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-21",
+          "formattedDate": "May 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-22",
+          "formattedDate": "May 22, 2026",
+          "tokens": 143047,
+          "formattedTokens": "143.0K",
+          "level": 4,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-23",
+          "formattedDate": "May 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-24",
+          "formattedDate": "May 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-25",
+          "formattedDate": "May 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-26",
+          "formattedDate": "May 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-27",
+          "formattedDate": "May 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-28",
+          "formattedDate": "May 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-29",
+          "formattedDate": "May 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-30",
+          "formattedDate": "May 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-31",
+          "formattedDate": "May 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-01",
+          "formattedDate": "Jun 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-02",
+          "formattedDate": "Jun 02, 2026",
+          "tokens": 376,
+          "formattedTokens": "376",
+          "level": 1,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-03",
+          "formattedDate": "Jun 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-04",
+          "formattedDate": "Jun 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-05",
+          "formattedDate": "Jun 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-06",
+          "formattedDate": "Jun 06, 2026",
+          "tokens": 60890,
+          "formattedTokens": "60.9K",
+          "level": 3,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-07",
+          "formattedDate": "Jun 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-08",
+          "formattedDate": "Jun 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-09",
+          "formattedDate": "Jun 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-10",
+          "formattedDate": "Jun 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-11",
+          "formattedDate": "Jun 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-12",
+          "formattedDate": "Jun 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-13",
+          "formattedDate": "Jun 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-14",
+          "formattedDate": "Jun 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-15",
+          "formattedDate": "Jun 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-16",
+          "formattedDate": "Jun 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-17",
+          "formattedDate": "Jun 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-18",
+          "formattedDate": "Jun 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-19",
+          "formattedDate": "Jun 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-20",
+          "formattedDate": "Jun 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-21",
+          "formattedDate": "Jun 21, 2026",
+          "tokens": 8975,
+          "formattedTokens": "9.0K",
+          "level": 1,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-22",
+          "formattedDate": "Jun 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-23",
+          "formattedDate": "Jun 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-24",
+          "formattedDate": "Jun 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-25",
+          "formattedDate": "Jun 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-26",
+          "formattedDate": "Jun 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-27",
+          "formattedDate": "Jun 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-28",
+          "formattedDate": "Jun 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-29",
+          "formattedDate": "Jun 29, 2026",
+          "tokens": 43919,
+          "formattedTokens": "43.9K",
+          "level": 3,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-30",
+          "formattedDate": "Jun 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-01",
+          "formattedDate": "Jul 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-02",
+          "formattedDate": "Jul 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-03",
+          "formattedDate": "Jul 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-04",
+          "formattedDate": "Jul 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-05",
+          "formattedDate": "Jul 05, 2026",
+          "tokens": 27606,
+          "formattedTokens": "27.6K",
+          "level": 2,
+          "cumulative": 284813,
+          "formattedCumulative": "284.8K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-06",
+          "formattedDate": "Jul 06, 2026",
+          "tokens": 138653,
+          "formattedTokens": "138.7K",
+          "level": 4,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-07",
+          "formattedDate": "Jul 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-08",
+          "formattedDate": "Jul 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-09",
+          "formattedDate": "Jul 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-10",
+          "formattedDate": "Jul 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-11",
+          "formattedDate": "Jul 11, 2026",
+          "tokens": 29148,
+          "formattedTokens": "29.1K",
+          "level": 2,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-12",
+          "formattedDate": "Jul 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-13",
+          "formattedDate": "Jul 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-14",
+          "formattedDate": "Jul 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-15",
+          "formattedDate": "Jul 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-16",
+          "formattedDate": "Jul 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-17",
+          "formattedDate": "Jul 17, 2026",
+          "tokens": 39709,
+          "formattedTokens": "39.7K",
+          "level": 2,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-18",
+          "formattedDate": "Jul 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-19",
+          "formattedDate": "Jul 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-20",
+          "formattedDate": "Jul 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-21",
+          "formattedDate": "Jul 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-22",
+          "formattedDate": "Jul 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-23",
+          "formattedDate": "Jul 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-24",
+          "formattedDate": "Jul 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-25",
+          "formattedDate": "Jul 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-26",
+          "formattedDate": "Jul 26, 2026",
+          "tokens": 29346,
+          "formattedTokens": "29.3K",
+          "level": 2,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-27",
+          "formattedDate": "Jul 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-28",
+          "formattedDate": "Jul 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-29",
+          "formattedDate": "Jul 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-30",
+          "formattedDate": "Jul 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-31",
+          "formattedDate": "Jul 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-01",
+          "formattedDate": "Aug 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-02",
+          "formattedDate": "Aug 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-03",
+          "formattedDate": "Aug 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-04",
+          "formattedDate": "Aug 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-05",
+          "formattedDate": "Aug 05, 2026",
+          "tokens": 51662,
+          "formattedTokens": "51.7K",
+          "level": 3,
+          "cumulative": 573331,
+          "formattedCumulative": "573.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-06",
+          "formattedDate": "Aug 06, 2026",
+          "tokens": 1031,
+          "formattedTokens": "1.0K",
+          "level": 1,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-07",
+          "formattedDate": "Aug 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-08",
+          "formattedDate": "Aug 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-09",
+          "formattedDate": "Aug 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-10",
+          "formattedDate": "Aug 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-11",
+          "formattedDate": "Aug 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-12",
+          "formattedDate": "Aug 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-13",
+          "formattedDate": "Aug 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-14",
+          "formattedDate": "Aug 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-15",
+          "formattedDate": "Aug 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-16",
+          "formattedDate": "Aug 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-17",
+          "formattedDate": "Aug 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-18",
+          "formattedDate": "Aug 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-19",
+          "formattedDate": "Aug 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-20",
+          "formattedDate": "Aug 20, 2026",
+          "tokens": 33054,
+          "formattedTokens": "33.1K",
+          "level": 2,
+          "cumulative": 607416,
+          "formattedCumulative": "607.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-21",
+          "formattedDate": "Aug 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 607416,
+          "formattedCumulative": "607.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-22",
+          "formattedDate": "Aug 22, 2026",
+          "tokens": 20930,
+          "formattedTokens": "20.9K",
+          "level": 2,
+          "cumulative": 628346,
+          "formattedCumulative": "628.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-23",
+          "formattedDate": "Aug 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 628346,
+          "formattedCumulative": "628.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-24",
+          "formattedDate": "Aug 24, 2026",
+          "tokens": 65841,
+          "formattedTokens": "65.8K",
+          "level": 3,
+          "cumulative": 694187,
+          "formattedCumulative": "694.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-25",
+          "formattedDate": "Aug 25, 2026",
+          "tokens": 90274,
+          "formattedTokens": "90.3K",
+          "level": 4,
+          "cumulative": 784461,
+          "formattedCumulative": "784.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-26",
+          "formattedDate": "Aug 26, 2026",
+          "tokens": 56339,
+          "formattedTokens": "56.3K",
+          "level": 3,
+          "cumulative": 840800,
+          "formattedCumulative": "840.8K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-27",
+          "formattedDate": "Aug 27, 2026",
+          "tokens": 63263,
+          "formattedTokens": "63.3K",
+          "level": 3,
+          "cumulative": 904063,
+          "formattedCumulative": "904.1K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-28",
+          "formattedDate": "Aug 28, 2026",
+          "tokens": 166934,
+          "formattedTokens": "166.9K",
+          "level": 4,
+          "cumulative": 1070997,
+          "formattedCumulative": "1.1M",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-29",
+          "formattedDate": "Aug 29, 2026",
+          "tokens": 268563,
+          "formattedTokens": "268.6K",
+          "level": 4,
+          "cumulative": 1339560,
+          "formattedCumulative": "1.3M",
+          "inRange": true
+        }
+      ]
+    ],
+    "shareWeeks": [
+      [
+        {
+          "date": "2026-03-01",
+          "formattedDate": "Mar 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-02",
+          "formattedDate": "Mar 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-03",
+          "formattedDate": "Mar 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-04",
+          "formattedDate": "Mar 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-05",
+          "formattedDate": "Mar 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-06",
+          "formattedDate": "Mar 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-07",
+          "formattedDate": "Mar 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-08",
+          "formattedDate": "Mar 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-09",
+          "formattedDate": "Mar 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-10",
+          "formattedDate": "Mar 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-11",
+          "formattedDate": "Mar 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-12",
+          "formattedDate": "Mar 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-13",
+          "formattedDate": "Mar 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-14",
+          "formattedDate": "Mar 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-15",
+          "formattedDate": "Mar 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-16",
+          "formattedDate": "Mar 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-17",
+          "formattedDate": "Mar 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-18",
+          "formattedDate": "Mar 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-19",
+          "formattedDate": "Mar 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-20",
+          "formattedDate": "Mar 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-21",
+          "formattedDate": "Mar 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-22",
+          "formattedDate": "Mar 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-23",
+          "formattedDate": "Mar 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-24",
+          "formattedDate": "Mar 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-25",
+          "formattedDate": "Mar 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-26",
+          "formattedDate": "Mar 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-27",
+          "formattedDate": "Mar 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-28",
+          "formattedDate": "Mar 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-03-29",
+          "formattedDate": "Mar 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-30",
+          "formattedDate": "Mar 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-03-31",
+          "formattedDate": "Mar 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-01",
+          "formattedDate": "Apr 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-02",
+          "formattedDate": "Apr 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-03",
+          "formattedDate": "Apr 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-04",
+          "formattedDate": "Apr 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-05",
+          "formattedDate": "Apr 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-06",
+          "formattedDate": "Apr 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-07",
+          "formattedDate": "Apr 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-08",
+          "formattedDate": "Apr 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-09",
+          "formattedDate": "Apr 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-10",
+          "formattedDate": "Apr 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-11",
+          "formattedDate": "Apr 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-12",
+          "formattedDate": "Apr 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-13",
+          "formattedDate": "Apr 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-14",
+          "formattedDate": "Apr 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-15",
+          "formattedDate": "Apr 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-16",
+          "formattedDate": "Apr 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-17",
+          "formattedDate": "Apr 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-18",
+          "formattedDate": "Apr 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-19",
+          "formattedDate": "Apr 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-20",
+          "formattedDate": "Apr 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-21",
+          "formattedDate": "Apr 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-22",
+          "formattedDate": "Apr 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-23",
+          "formattedDate": "Apr 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-24",
+          "formattedDate": "Apr 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-25",
+          "formattedDate": "Apr 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-04-26",
+          "formattedDate": "Apr 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-27",
+          "formattedDate": "Apr 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-28",
+          "formattedDate": "Apr 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-29",
+          "formattedDate": "Apr 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-04-30",
+          "formattedDate": "Apr 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-01",
+          "formattedDate": "May 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-02",
+          "formattedDate": "May 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-03",
+          "formattedDate": "May 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-04",
+          "formattedDate": "May 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-05",
+          "formattedDate": "May 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-06",
+          "formattedDate": "May 06, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-07",
+          "formattedDate": "May 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-08",
+          "formattedDate": "May 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-09",
+          "formattedDate": "May 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-10",
+          "formattedDate": "May 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-11",
+          "formattedDate": "May 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-12",
+          "formattedDate": "May 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-13",
+          "formattedDate": "May 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-14",
+          "formattedDate": "May 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-15",
+          "formattedDate": "May 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-16",
+          "formattedDate": "May 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-17",
+          "formattedDate": "May 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-18",
+          "formattedDate": "May 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-19",
+          "formattedDate": "May 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-20",
+          "formattedDate": "May 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-21",
+          "formattedDate": "May 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 0,
+          "formattedCumulative": "0",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-22",
+          "formattedDate": "May 22, 2026",
+          "tokens": 143047,
+          "formattedTokens": "143.0K",
+          "level": 4,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-23",
+          "formattedDate": "May 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-24",
+          "formattedDate": "May 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-25",
+          "formattedDate": "May 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-26",
+          "formattedDate": "May 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-27",
+          "formattedDate": "May 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-28",
+          "formattedDate": "May 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-29",
+          "formattedDate": "May 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-05-30",
+          "formattedDate": "May 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-05-31",
+          "formattedDate": "May 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-01",
+          "formattedDate": "Jun 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143047,
+          "formattedCumulative": "143.0K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-02",
+          "formattedDate": "Jun 02, 2026",
+          "tokens": 376,
+          "formattedTokens": "376",
+          "level": 1,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-03",
+          "formattedDate": "Jun 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-04",
+          "formattedDate": "Jun 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-05",
+          "formattedDate": "Jun 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 143423,
+          "formattedCumulative": "143.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-06",
+          "formattedDate": "Jun 06, 2026",
+          "tokens": 60890,
+          "formattedTokens": "60.9K",
+          "level": 3,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-07",
+          "formattedDate": "Jun 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-08",
+          "formattedDate": "Jun 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-09",
+          "formattedDate": "Jun 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-10",
+          "formattedDate": "Jun 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-11",
+          "formattedDate": "Jun 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-12",
+          "formattedDate": "Jun 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-13",
+          "formattedDate": "Jun 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-14",
+          "formattedDate": "Jun 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-15",
+          "formattedDate": "Jun 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-16",
+          "formattedDate": "Jun 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-17",
+          "formattedDate": "Jun 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-18",
+          "formattedDate": "Jun 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-19",
+          "formattedDate": "Jun 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-20",
+          "formattedDate": "Jun 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 204313,
+          "formattedCumulative": "204.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-21",
+          "formattedDate": "Jun 21, 2026",
+          "tokens": 8975,
+          "formattedTokens": "9.0K",
+          "level": 1,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-22",
+          "formattedDate": "Jun 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-23",
+          "formattedDate": "Jun 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-24",
+          "formattedDate": "Jun 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-25",
+          "formattedDate": "Jun 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-26",
+          "formattedDate": "Jun 26, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-27",
+          "formattedDate": "Jun 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-06-28",
+          "formattedDate": "Jun 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 213288,
+          "formattedCumulative": "213.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-29",
+          "formattedDate": "Jun 29, 2026",
+          "tokens": 43919,
+          "formattedTokens": "43.9K",
+          "level": 3,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-06-30",
+          "formattedDate": "Jun 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-01",
+          "formattedDate": "Jul 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-02",
+          "formattedDate": "Jul 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-03",
+          "formattedDate": "Jul 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-04",
+          "formattedDate": "Jul 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 257207,
+          "formattedCumulative": "257.2K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-05",
+          "formattedDate": "Jul 05, 2026",
+          "tokens": 27606,
+          "formattedTokens": "27.6K",
+          "level": 2,
+          "cumulative": 284813,
+          "formattedCumulative": "284.8K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-06",
+          "formattedDate": "Jul 06, 2026",
+          "tokens": 138653,
+          "formattedTokens": "138.7K",
+          "level": 4,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-07",
+          "formattedDate": "Jul 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-08",
+          "formattedDate": "Jul 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-09",
+          "formattedDate": "Jul 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-10",
+          "formattedDate": "Jul 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 423466,
+          "formattedCumulative": "423.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-11",
+          "formattedDate": "Jul 11, 2026",
+          "tokens": 29148,
+          "formattedTokens": "29.1K",
+          "level": 2,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-12",
+          "formattedDate": "Jul 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-13",
+          "formattedDate": "Jul 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-14",
+          "formattedDate": "Jul 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-15",
+          "formattedDate": "Jul 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-16",
+          "formattedDate": "Jul 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 452614,
+          "formattedCumulative": "452.6K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-17",
+          "formattedDate": "Jul 17, 2026",
+          "tokens": 39709,
+          "formattedTokens": "39.7K",
+          "level": 2,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-18",
+          "formattedDate": "Jul 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-19",
+          "formattedDate": "Jul 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-20",
+          "formattedDate": "Jul 20, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-21",
+          "formattedDate": "Jul 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-22",
+          "formattedDate": "Jul 22, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-23",
+          "formattedDate": "Jul 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-24",
+          "formattedDate": "Jul 24, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-25",
+          "formattedDate": "Jul 25, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 492323,
+          "formattedCumulative": "492.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-07-26",
+          "formattedDate": "Jul 26, 2026",
+          "tokens": 29346,
+          "formattedTokens": "29.3K",
+          "level": 2,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-27",
+          "formattedDate": "Jul 27, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-28",
+          "formattedDate": "Jul 28, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-29",
+          "formattedDate": "Jul 29, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-30",
+          "formattedDate": "Jul 30, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-07-31",
+          "formattedDate": "Jul 31, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-01",
+          "formattedDate": "Aug 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-02",
+          "formattedDate": "Aug 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-03",
+          "formattedDate": "Aug 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-04",
+          "formattedDate": "Aug 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 521669,
+          "formattedCumulative": "521.7K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-05",
+          "formattedDate": "Aug 05, 2026",
+          "tokens": 51662,
+          "formattedTokens": "51.7K",
+          "level": 3,
+          "cumulative": 573331,
+          "formattedCumulative": "573.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-06",
+          "formattedDate": "Aug 06, 2026",
+          "tokens": 1031,
+          "formattedTokens": "1.0K",
+          "level": 1,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-07",
+          "formattedDate": "Aug 07, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-08",
+          "formattedDate": "Aug 08, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-09",
+          "formattedDate": "Aug 09, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-10",
+          "formattedDate": "Aug 10, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-11",
+          "formattedDate": "Aug 11, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-12",
+          "formattedDate": "Aug 12, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-13",
+          "formattedDate": "Aug 13, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-14",
+          "formattedDate": "Aug 14, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-15",
+          "formattedDate": "Aug 15, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-16",
+          "formattedDate": "Aug 16, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-17",
+          "formattedDate": "Aug 17, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-18",
+          "formattedDate": "Aug 18, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-19",
+          "formattedDate": "Aug 19, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 574362,
+          "formattedCumulative": "574.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-20",
+          "formattedDate": "Aug 20, 2026",
+          "tokens": 33054,
+          "formattedTokens": "33.1K",
+          "level": 2,
+          "cumulative": 607416,
+          "formattedCumulative": "607.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-21",
+          "formattedDate": "Aug 21, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 607416,
+          "formattedCumulative": "607.4K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-22",
+          "formattedDate": "Aug 22, 2026",
+          "tokens": 20930,
+          "formattedTokens": "20.9K",
+          "level": 2,
+          "cumulative": 628346,
+          "formattedCumulative": "628.3K",
+          "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-23",
+          "formattedDate": "Aug 23, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 628346,
+          "formattedCumulative": "628.3K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-24",
+          "formattedDate": "Aug 24, 2026",
+          "tokens": 65841,
+          "formattedTokens": "65.8K",
+          "level": 3,
+          "cumulative": 694187,
+          "formattedCumulative": "694.2K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-25",
+          "formattedDate": "Aug 25, 2026",
+          "tokens": 90274,
+          "formattedTokens": "90.3K",
+          "level": 4,
+          "cumulative": 784461,
+          "formattedCumulative": "784.5K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-26",
+          "formattedDate": "Aug 26, 2026",
+          "tokens": 56339,
+          "formattedTokens": "56.3K",
+          "level": 3,
+          "cumulative": 840800,
+          "formattedCumulative": "840.8K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-27",
+          "formattedDate": "Aug 27, 2026",
+          "tokens": 63263,
+          "formattedTokens": "63.3K",
+          "level": 3,
+          "cumulative": 904063,
+          "formattedCumulative": "904.1K",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-28",
+          "formattedDate": "Aug 28, 2026",
+          "tokens": 166934,
+          "formattedTokens": "166.9K",
+          "level": 4,
+          "cumulative": 1070997,
+          "formattedCumulative": "1.1M",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-29",
+          "formattedDate": "Aug 29, 2026",
+          "tokens": 268563,
+          "formattedTokens": "268.6K",
+          "level": 4,
+          "cumulative": 1339560,
+          "formattedCumulative": "1.3M",
+          "inRange": true
+        }
+      ]
+    ]
   }
 }
