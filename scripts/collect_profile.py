@@ -36,8 +36,6 @@ def main():
     print(f"Found {len(transcripts)} conversation sessions in {brain_dir}")
 
     day_tokens = {}
-    total_tokens = 0
-    peak_tokens = 0
     longest_active_sec = 0
     total_chats = len(transcripts)
 
@@ -63,7 +61,6 @@ def main():
     }
 
     for path in transcripts:
-        session_tokens = 0
         prev_ts = None
         session_active_sec = 0
 
@@ -96,8 +93,6 @@ def main():
                 tc_len = len(str(step.get('tool_calls', '') or ''))
                 approx_tokens = max(80, int((c_len + th_len + tc_len) / 3.5))
 
-                session_tokens += approx_tokens
-                total_tokens += approx_tokens
                 day_tokens[d_str] = day_tokens.get(d_str, 0) + approx_tokens
 
                 # Track Tool Calls
@@ -138,10 +133,11 @@ def main():
                                 mcp_counts[known_mcp] = mcp_counts.get(known_mcp, 0) + 1
                                 break
 
-        if session_tokens > peak_tokens:
-            peak_tokens = session_tokens
         if session_active_sec > longest_active_sec:
             longest_active_sec = session_active_sec
+
+    total_tokens = sum(day_tokens.values())
+    peak_tokens = max(day_tokens.values()) if day_tokens else 0
 
     # Count Connected MCP servers and Installed Skills
     mcp_dir = os.path.expanduser('~/.gemini/antigravity/mcp')
@@ -153,23 +149,27 @@ def main():
                    glob.glob(os.path.expanduser('~/.gemini/antigravity/builtin/skills/**/SKILL.md'), recursive=True)
     skills_installed_count = len(set(skills_paths)) if skills_paths else 52
 
-    # 2. Build 52-week Heatmap Grid aligned to today
+    # 2. Build 52-week Heatmap Grid ending on current week (Saturday)
     today = datetime.now()
     today_str = today.strftime('%Y-%m-%d')
-    start_date = today - timedelta(days=52 * 7)
-    while start_date.weekday() != 6: # Sunday
-        start_date -= timedelta(days=1)
+    today_date = today.date()
+
+    end_date = today_date
+    while end_date.weekday() != 5: # Saturday
+        end_date += timedelta(days=1)
+
+    start_date = end_date - timedelta(days=52 * 7 - 1)
 
     weeks = []
     curr = start_date
     cumulative = 0
 
-    while curr <= today or len(weeks) < 52:
+    while curr <= end_date:
         week = []
         for _ in range(7):
             d_str = curr.strftime('%Y-%m-%d')
             t_count = day_tokens.get(d_str, 0)
-            in_range = curr <= today
+            in_range = curr <= today_date
             if in_range:
                 cumulative += t_count
 
@@ -217,12 +217,12 @@ def main():
                 longest_streak = curr_run
             prev_date = d_obj
 
-        check_date = today.date()
+        check_date = today_date
         while check_date.strftime('%Y-%m-%d') in day_tokens and day_tokens[check_date.strftime('%Y-%m-%d')] > 0:
             current_streak += 1
             check_date -= timedelta(days=1)
-        if current_streak == 0 and (today.date() - timedelta(days=1)).strftime('%Y-%m-%d') in day_tokens:
-            check_date = today.date() - timedelta(days=1)
+        if current_streak == 0 and (today_date - timedelta(days=1)).strftime('%Y-%m-%d') in day_tokens:
+            check_date = today_date - timedelta(days=1)
             while check_date.strftime('%Y-%m-%d') in day_tokens and day_tokens[check_date.strftime('%Y-%m-%d')] > 0:
                 current_streak += 1
                 check_date -= timedelta(days=1)

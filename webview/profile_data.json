@@ -7,10 +7,10 @@
     "avatarColor": "#e67e22"
   },
   "metrics": {
-    "lifetimeTokens": 1849802,
-    "lifetimeTokensFormatted": "1.8M",
-    "peakTokens": 131612,
-    "peakTokensFormatted": "131.6K",
+    "lifetimeTokens": 1885066,
+    "lifetimeTokensFormatted": "1.9M",
+    "peakTokens": 409840,
+    "peakTokensFormatted": "409.8K",
     "longestChatSeconds": 8069.0,
     "longestChatFormatted": "2h 14m",
     "currentStreak": 8,
@@ -19,8 +19,8 @@
   "insights": {
     "mcpConnected": "11 servers",
     "skillsInstalled": "59 skills",
-    "commandsRun": "656 commands",
-    "filesModified": "985 files",
+    "commandsRun": "686 commands",
+    "filesModified": "1009 files",
     "totalChats": "51 chats"
   },
   "plugins": [
@@ -40,6 +40,11 @@
       "icon": "✨"
     },
     {
+      "name": "@github",
+      "runs": 6,
+      "icon": "🐙"
+    },
+    {
       "name": "@stitch",
       "runs": 6,
       "icon": "🧵"
@@ -53,87 +58,10 @@
       "name": "@sequential-thinking",
       "runs": 2,
       "icon": "🧠"
-    },
-    {
-      "name": "@github",
-      "runs": 1,
-      "icon": "🐙"
     }
   ],
   "heatmap": {
     "weeks": [
-      [
-        {
-          "date": "2025-08-31",
-          "formattedDate": "Aug 31, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-01",
-          "formattedDate": "Sep 01, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-02",
-          "formattedDate": "Sep 02, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-03",
-          "formattedDate": "Sep 03, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-04",
-          "formattedDate": "Sep 04, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-05",
-          "formattedDate": "Sep 05, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2025-09-06",
-          "formattedDate": "Sep 06, 2025",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        }
-      ],
       [
         {
           "date": "2025-09-07",
@@ -3805,81 +3733,81 @@
           "formattedCumulative": "1.3M",
           "inRange": true
         }
+      ],
+      [
+        {
+          "date": "2026-08-30",
+          "formattedDate": "Aug 30, 2026",
+          "tokens": 135666,
+          "formattedTokens": "135.7K",
+          "level": 4,
+          "cumulative": 1475226,
+          "formattedCumulative": "1.5M",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-31",
+          "formattedDate": "Aug 31, 2026",
+          "tokens": 409840,
+          "formattedTokens": "409.8K",
+          "level": 4,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": true
+        },
+        {
+          "date": "2026-09-01",
+          "formattedDate": "Sep 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-02",
+          "formattedDate": "Sep 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-03",
+          "formattedDate": "Sep 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-04",
+          "formattedDate": "Sep 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-05",
+          "formattedDate": "Sep 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        }
       ]
     ],
     "shareWeeks": [
-      [
-        {
-          "date": "2026-03-01",
-          "formattedDate": "Mar 01, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-02",
-          "formattedDate": "Mar 02, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-03",
-          "formattedDate": "Mar 03, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-04",
-          "formattedDate": "Mar 04, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-05",
-          "formattedDate": "Mar 05, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-06",
-          "formattedDate": "Mar 06, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        },
-        {
-          "date": "2026-03-07",
-          "formattedDate": "Mar 07, 2026",
-          "tokens": 0,
-          "formattedTokens": "0",
-          "level": 0,
-          "cumulative": 0,
-          "formattedCumulative": "0",
-          "inRange": true
-        }
-      ],
       [
         {
           "date": "2026-03-08",
@@ -5678,6 +5606,78 @@
           "cumulative": 1339560,
           "formattedCumulative": "1.3M",
           "inRange": true
+        }
+      ],
+      [
+        {
+          "date": "2026-08-30",
+          "formattedDate": "Aug 30, 2026",
+          "tokens": 135666,
+          "formattedTokens": "135.7K",
+          "level": 4,
+          "cumulative": 1475226,
+          "formattedCumulative": "1.5M",
+          "inRange": true
+        },
+        {
+          "date": "2026-08-31",
+          "formattedDate": "Aug 31, 2026",
+          "tokens": 409840,
+          "formattedTokens": "409.8K",
+          "level": 4,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": true
+        },
+        {
+          "date": "2026-09-01",
+          "formattedDate": "Sep 01, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-02",
+          "formattedDate": "Sep 02, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-03",
+          "formattedDate": "Sep 03, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-04",
+          "formattedDate": "Sep 04, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
+        },
+        {
+          "date": "2026-09-05",
+          "formattedDate": "Sep 05, 2026",
+          "tokens": 0,
+          "formattedTokens": "0",
+          "level": 0,
+          "cumulative": 1885066,
+          "formattedCumulative": "1.9M",
+          "inRange": false
         }
       ]
     ]
