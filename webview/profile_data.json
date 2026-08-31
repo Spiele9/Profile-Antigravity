@@ -7,20 +7,20 @@
     "avatarColor": "#e67e22"
   },
   "metrics": {
-    "lifetimeTokens": 1812707,
+    "lifetimeTokens": 1788569,
     "lifetimeTokensFormatted": "1.8M",
-    "peakTokens": 109600,
-    "peakTokensFormatted": "109.6K",
-    "longestChatSeconds": 7345.0,
-    "longestChatFormatted": "2h 02m",
+    "peakTokens": 118408,
+    "peakTokensFormatted": "118.4K",
+    "longestChatSeconds": 7679.0,
+    "longestChatFormatted": "2h 07m",
     "currentStreak": 8,
     "longestStreak": 8
   },
   "insights": {
-    "mcpConnected": "2 servers",
+    "mcpConnected": "1 servers",
     "skillsInstalled": "52 skills",
-    "commandsRun": "618 commands",
-    "filesModified": "931 files",
+    "commandsRun": "635 commands",
+    "filesModified": "941 files",
     "totalChats": "50 chats"
   },
   "plugins": [
@@ -1693,15 +1693,15 @@
         },
         {
           "date": "2026-05-22",
-          "tokens": 145149,
+          "tokens": 143047,
           "level": 4,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         }
       ],
       [
@@ -1709,43 +1709,43 @@
           "date": "2026-05-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-26",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-29",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         }
       ],
       [
@@ -1753,43 +1753,43 @@
           "date": "2026-05-31",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-06-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-06-02",
-          "tokens": 396,
+          "tokens": 376,
           "level": 1,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-05",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-06",
-          "tokens": 61430,
+          "tokens": 60890,
           "level": 3,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
@@ -1797,43 +1797,43 @@
           "date": "2026-06-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-11",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
@@ -1841,87 +1841,87 @@
           "date": "2026-06-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-17",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-20",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
         {
           "date": "2026-06-21",
-          "tokens": 9430,
+          "tokens": 8975,
           "level": 1,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-22",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-26",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         }
       ],
       [
@@ -1929,87 +1929,87 @@
           "date": "2026-06-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-29",
-          "tokens": 44307,
+          "tokens": 43919,
           "level": 3,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-06-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-02",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         }
       ],
       [
         {
           "date": "2026-07-05",
-          "tokens": 28223,
+          "tokens": 27606,
           "level": 2,
-          "cumulative": 288935
+          "cumulative": 284813
         },
         {
           "date": "2026-07-06",
-          "tokens": 142534,
+          "tokens": 138653,
           "level": 4,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-11",
-          "tokens": 29404,
+          "tokens": 29148,
           "level": 2,
-          "cumulative": 460873
+          "cumulative": 452614
         }
       ],
       [
@@ -2017,43 +2017,43 @@
           "date": "2026-07-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-17",
-          "tokens": 40853,
-          "level": 3,
-          "cumulative": 501726
+          "tokens": 39709,
+          "level": 2,
+          "cumulative": 492323
         },
         {
           "date": "2026-07-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         }
       ],
       [
@@ -2061,87 +2061,87 @@
           "date": "2026-07-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-20",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-21",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-22",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         }
       ],
       [
         {
           "date": "2026-07-26",
-          "tokens": 29885,
+          "tokens": 29346,
           "level": 2,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-29",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-31",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         }
       ],
       [
@@ -2149,43 +2149,43 @@
           "date": "2026-08-02",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-05",
-          "tokens": 52710,
+          "tokens": 51662,
           "level": 3,
-          "cumulative": 584321
+          "cumulative": 573331
         },
         {
           "date": "2026-08-06",
-          "tokens": 1071,
+          "tokens": 1031,
           "level": 1,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         }
       ],
       [
@@ -2193,43 +2193,43 @@
           "date": "2026-08-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-11",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         }
       ],
       [
@@ -2237,43 +2237,43 @@
           "date": "2026-08-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-17",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-20",
-          "tokens": 33641,
+          "tokens": 33054,
           "level": 2,
-          "cumulative": 619033
+          "cumulative": 607416
         },
         {
           "date": "2026-08-21",
           "tokens": 0,
           "level": 0,
-          "cumulative": 619033
+          "cumulative": 607416
         },
         {
           "date": "2026-08-22",
-          "tokens": 21381,
+          "tokens": 20930,
           "level": 2,
-          "cumulative": 640414
+          "cumulative": 628346
         }
       ],
       [
@@ -2281,43 +2281,43 @@
           "date": "2026-08-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 640414
+          "cumulative": 628346
         },
         {
           "date": "2026-08-24",
-          "tokens": 67041,
+          "tokens": 65841,
           "level": 3,
-          "cumulative": 707455
+          "cumulative": 694187
         },
         {
           "date": "2026-08-25",
-          "tokens": 91769,
+          "tokens": 90274,
           "level": 4,
-          "cumulative": 799224
+          "cumulative": 784461
         },
         {
           "date": "2026-08-26",
-          "tokens": 57469,
+          "tokens": 56339,
           "level": 3,
-          "cumulative": 856693
+          "cumulative": 840800
         },
         {
           "date": "2026-08-27",
-          "tokens": 63884,
+          "tokens": 63263,
           "level": 3,
-          "cumulative": 920577
+          "cumulative": 904063
         },
         {
           "date": "2026-08-28",
-          "tokens": 171818,
+          "tokens": 166934,
           "level": 4,
-          "cumulative": 1092395
+          "cumulative": 1070997
         },
         {
           "date": "2026-08-29",
-          "tokens": 278089,
+          "tokens": 268563,
           "level": 4,
-          "cumulative": 1370484
+          "cumulative": 1339560
         }
       ]
     ],
@@ -2839,15 +2839,15 @@
         },
         {
           "date": "2026-05-22",
-          "tokens": 145149,
+          "tokens": 143047,
           "level": 4,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         }
       ],
       [
@@ -2855,43 +2855,43 @@
           "date": "2026-05-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-26",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-29",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-05-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         }
       ],
       [
@@ -2899,43 +2899,43 @@
           "date": "2026-05-31",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-06-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145149
+          "cumulative": 143047
         },
         {
           "date": "2026-06-02",
-          "tokens": 396,
+          "tokens": 376,
           "level": 1,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-05",
           "tokens": 0,
           "level": 0,
-          "cumulative": 145545
+          "cumulative": 143423
         },
         {
           "date": "2026-06-06",
-          "tokens": 61430,
+          "tokens": 60890,
           "level": 3,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
@@ -2943,43 +2943,43 @@
           "date": "2026-06-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-11",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
@@ -2987,87 +2987,87 @@
           "date": "2026-06-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-17",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         },
         {
           "date": "2026-06-20",
           "tokens": 0,
           "level": 0,
-          "cumulative": 206975
+          "cumulative": 204313
         }
       ],
       [
         {
           "date": "2026-06-21",
-          "tokens": 9430,
+          "tokens": 8975,
           "level": 1,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-22",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-26",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         }
       ],
       [
@@ -3075,87 +3075,87 @@
           "date": "2026-06-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 216405
+          "cumulative": 213288
         },
         {
           "date": "2026-06-29",
-          "tokens": 44307,
+          "tokens": 43919,
           "level": 3,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-06-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-02",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         },
         {
           "date": "2026-07-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 260712
+          "cumulative": 257207
         }
       ],
       [
         {
           "date": "2026-07-05",
-          "tokens": 28223,
+          "tokens": 27606,
           "level": 2,
-          "cumulative": 288935
+          "cumulative": 284813
         },
         {
           "date": "2026-07-06",
-          "tokens": 142534,
+          "tokens": 138653,
           "level": 4,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 431469
+          "cumulative": 423466
         },
         {
           "date": "2026-07-11",
-          "tokens": 29404,
+          "tokens": 29148,
           "level": 2,
-          "cumulative": 460873
+          "cumulative": 452614
         }
       ],
       [
@@ -3163,43 +3163,43 @@
           "date": "2026-07-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 460873
+          "cumulative": 452614
         },
         {
           "date": "2026-07-17",
-          "tokens": 40853,
-          "level": 3,
-          "cumulative": 501726
+          "tokens": 39709,
+          "level": 2,
+          "cumulative": 492323
         },
         {
           "date": "2026-07-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         }
       ],
       [
@@ -3207,87 +3207,87 @@
           "date": "2026-07-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-20",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-21",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-22",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-24",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         },
         {
           "date": "2026-07-25",
           "tokens": 0,
           "level": 0,
-          "cumulative": 501726
+          "cumulative": 492323
         }
       ],
       [
         {
           "date": "2026-07-26",
-          "tokens": 29885,
+          "tokens": 29346,
           "level": 2,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-27",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-28",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-29",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-30",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-07-31",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-01",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         }
       ],
       [
@@ -3295,43 +3295,43 @@
           "date": "2026-08-02",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-03",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-04",
           "tokens": 0,
           "level": 0,
-          "cumulative": 531611
+          "cumulative": 521669
         },
         {
           "date": "2026-08-05",
-          "tokens": 52710,
+          "tokens": 51662,
           "level": 3,
-          "cumulative": 584321
+          "cumulative": 573331
         },
         {
           "date": "2026-08-06",
-          "tokens": 1071,
+          "tokens": 1031,
           "level": 1,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-07",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-08",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         }
       ],
       [
@@ -3339,43 +3339,43 @@
           "date": "2026-08-09",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-10",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-11",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-12",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-13",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-14",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-15",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         }
       ],
       [
@@ -3383,43 +3383,43 @@
           "date": "2026-08-16",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-17",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-18",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-19",
           "tokens": 0,
           "level": 0,
-          "cumulative": 585392
+          "cumulative": 574362
         },
         {
           "date": "2026-08-20",
-          "tokens": 33641,
+          "tokens": 33054,
           "level": 2,
-          "cumulative": 619033
+          "cumulative": 607416
         },
         {
           "date": "2026-08-21",
           "tokens": 0,
           "level": 0,
-          "cumulative": 619033
+          "cumulative": 607416
         },
         {
           "date": "2026-08-22",
-          "tokens": 21381,
+          "tokens": 20930,
           "level": 2,
-          "cumulative": 640414
+          "cumulative": 628346
         }
       ],
       [
@@ -3427,43 +3427,43 @@
           "date": "2026-08-23",
           "tokens": 0,
           "level": 0,
-          "cumulative": 640414
+          "cumulative": 628346
         },
         {
           "date": "2026-08-24",
-          "tokens": 67041,
+          "tokens": 65841,
           "level": 3,
-          "cumulative": 707455
+          "cumulative": 694187
         },
         {
           "date": "2026-08-25",
-          "tokens": 91769,
+          "tokens": 90274,
           "level": 4,
-          "cumulative": 799224
+          "cumulative": 784461
         },
         {
           "date": "2026-08-26",
-          "tokens": 57469,
+          "tokens": 56339,
           "level": 3,
-          "cumulative": 856693
+          "cumulative": 840800
         },
         {
           "date": "2026-08-27",
-          "tokens": 63884,
+          "tokens": 63263,
           "level": 3,
-          "cumulative": 920577
+          "cumulative": 904063
         },
         {
           "date": "2026-08-28",
-          "tokens": 171818,
+          "tokens": 166934,
           "level": 4,
-          "cumulative": 1092395
+          "cumulative": 1070997
         },
         {
           "date": "2026-08-29",
-          "tokens": 278089,
+          "tokens": 268563,
           "level": 4,
-          "cumulative": 1370484
+          "cumulative": 1339560
         }
       ]
     ]

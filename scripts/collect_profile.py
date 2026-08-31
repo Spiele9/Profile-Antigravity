@@ -2,25 +2,23 @@
 """
 Antigravity Profile Collector & Builder
 Parses transcripts in ~/.gemini/antigravity/brain/*/
-Generates profile_data.json and webview/profile.html
+Generates webview/profile_data.json and webview/profile.html
 """
 
 import os
 import json
 import glob
-import base64
 from datetime import datetime, timedelta
 
 def main():
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    assets_dir = os.path.join(root_dir, 'assets')
     webview_dir = os.path.join(root_dir, 'webview')
     os.makedirs(webview_dir, exist_ok=True)
 
-    # 1. Parse Transcripts
+    # 1. Locate and parse transcripts
     brain_dir = os.path.expanduser('~/.gemini/antigravity/brain')
     transcripts = glob.glob(os.path.join(brain_dir, '*', '.system_generated', 'logs', 'transcript.jsonl'))
-    print(f"Found {len(transcripts)} conversation sessions to parse.")
+    print(f"Found {len(transcripts)} conversation sessions in {brain_dir}")
 
     day_tokens = {}
     total_tokens = 0
@@ -43,8 +41,6 @@ def main():
 
     for path in transcripts:
         session_tokens = 0
-        first_time = None
-        last_time = None
         prev_ts = None
         session_active_sec = 0
 
@@ -61,9 +57,6 @@ def main():
                 if ts_str:
                     try:
                         ts = datetime.fromisoformat(ts_str.replace('Z', '+00:00'))
-                        if first_time is None:
-                            first_time = ts
-                        last_time = ts
                         if prev_ts is not None:
                             diff = (ts - prev_ts).total_seconds()
                             if 0 < diff < 1800:
@@ -71,14 +64,14 @@ def main():
                         prev_ts = ts
                         d_str = ts.strftime('%Y-%m-%d')
                     except Exception:
-                        d_str = '2026-08-31'
+                        d_str = datetime.now().strftime('%Y-%m-%d')
                 else:
-                    d_str = '2026-08-31'
+                    d_str = datetime.now().strftime('%Y-%m-%d')
 
                 c_len = len(step.get('content', '') or '')
                 th_len = len(step.get('thinking', '') or '')
                 tc_len = len(str(step.get('tool_calls', '') or ''))
-                approx_tokens = max(100, int((c_len + th_len + tc_len) / 3.5))
+                approx_tokens = max(80, int((c_len + th_len + tc_len) / 3.5))
 
                 session_tokens += approx_tokens
                 total_tokens += approx_tokens
@@ -101,10 +94,10 @@ def main():
         if session_active_sec > longest_active_sec:
             longest_active_sec = session_active_sec
 
-    # 2. Build 52-week Heatmap Grid
-    today = datetime(2026, 8, 31)
+    # 2. Build 52-week Heatmap Grid aligned to today
+    today = datetime.now()
     start_date = today - timedelta(days=52 * 7)
-    while start_date.weekday() != 6:
+    while start_date.weekday() != 6: # Sunday
         start_date -= timedelta(days=1)
 
     weeks = []
@@ -141,7 +134,42 @@ def main():
         if len(weeks) == 52:
             break
 
-    # Formatters
+    # Calculate actual consecutive streaks
+    sorted_days = sorted([d for d, t in day_tokens.items() if t > 0])
+    current_streak = 0
+    longest_streak = 0
+    curr_run = 0
+
+    if sorted_days:
+        # Longest streak calculation
+        prev_date = None
+        for d_s in sorted_days:
+            d_obj = datetime.strptime(d_s, '%Y-%m-%d').date()
+            if prev_date is None or d_obj == prev_date + timedelta(days=1):
+                curr_run += 1
+            elif d_obj > prev_date + timedelta(days=1):
+                curr_run = 1
+            if curr_run > longest_streak:
+                longest_streak = curr_run
+            prev_date = d_obj
+
+        # Current streak from today backwards
+        check_date = today.date()
+        while check_date.strftime('%Y-%m-%d') in day_tokens and day_tokens[check_date.strftime('%Y-%m-%d')] > 0:
+            current_streak += 1
+            check_date -= timedelta(days=1)
+        if current_streak == 0 and (today.date() - timedelta(days=1)).strftime('%Y-%m-%d') in day_tokens:
+            check_date = today.date() - timedelta(days=1)
+            while check_date.strftime('%Y-%m-%d') in day_tokens and day_tokens[check_date.strftime('%Y-%m-%d')] > 0:
+                current_streak += 1
+                check_date -= timedelta(days=1)
+
+    # Defaults if no logs exist
+    if total_chats == 0:
+        current_streak = 0
+        longest_streak = 0
+
+    # Format numbers
     def fmt_num(n):
         if n >= 1000000:
             return f"{n/1000000:.1f}M"
@@ -165,14 +193,26 @@ def main():
     plugin_list = [p for p in plugin_list if p['runs'] > 0]
     plugin_list.sort(key=lambda x: x['runs'], reverse=True)
 
+    # Preserve user customization if already set
+    out_json = os.path.join(webview_dir, 'profile_data.json')
+    user_info = {
+        'name': 'gelios_g',
+        'handle': '@gelios_g',
+        'badge': 'Free',
+        'initials': 'GER',
+        'avatarColor': '#e67e22'
+    }
+    if os.path.exists(out_json):
+        try:
+            with open(out_json, 'r') as f_prev:
+                prev_data = json.load(f_prev)
+                if 'user' in prev_data:
+                    user_info = prev_data['user']
+        except Exception:
+            pass
+
     profile_data = {
-        'user': {
-            'name': 'gelios_g',
-            'handle': '@gelios_g',
-            'badge': 'Free',
-            'initials': 'GER',
-            'avatarColor': '#e67e22'
-        },
+        'user': user_info,
         'metrics': {
             'lifetimeTokens': total_tokens,
             'lifetimeTokensFormatted': fmt_num(total_tokens),
@@ -180,17 +220,17 @@ def main():
             'peakTokensFormatted': fmt_num(peak_tokens),
             'longestChatSeconds': longest_active_sec,
             'longestChatFormatted': longest_chat_fmt,
-            'currentStreak': 8,
-            'longestStreak': 8
+            'currentStreak': max(1, current_streak) if total_chats > 0 else 0,
+            'longestStreak': max(1, longest_streak) if total_chats > 0 else 0
         },
         'insights': {
-            'mcpConnected': f"{len(plugin_list) + 1} servers",
+            'mcpConnected': f"{max(1, len(plugin_list))} servers" if total_chats > 0 else "0 servers",
             'skillsInstalled': '52 skills',
             'commandsRun': f"{commands_run} commands",
             'filesModified': f"{files_modified} files",
             'totalChats': f"{total_chats} chats"
         },
-        'plugins': plugin_list,
+        'plugins': plugin_list if plugin_list else [{'name': '@antigravity', 'runs': 1, 'icon': '▲'}],
         'heatmap': {
             'weeks': weeks,
             'shareWeeks': weeks[-26:]
@@ -198,10 +238,9 @@ def main():
     }
 
     # Save JSON
-    out_json = os.path.join(webview_dir, 'profile_data.json')
     with open(out_json, 'w', encoding='utf-8') as f:
         json.dump(profile_data, f, indent=2, ensure_ascii=False)
-    print(f"Updated {out_json}")
+    print(f"Successfully generated {out_json}")
 
 if __name__ == '__main__':
     main()
