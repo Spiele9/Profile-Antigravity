@@ -1,15 +1,15 @@
 # Antigravity Profile & Token Dashboard
 
-A dark-themed profile dashboard and activity visualizer for Google Antigravity, inspired by Codex.
+A profile dashboard and activity visualizer for Google Antigravity, inspired by Codex.
 
 It reads your local conversation history from Antigravity, calculates total tokens, streaks, session duration, and tool usage, and shows everything in a 52-week activity heatmap.
 
 ## Features
 
 - **Activity Heatmap:** 52-week activity grid with Daily, Weekly, and Cumulative views.
-- **Share Card:** Generates a 6-month summary card and exports it as a 2x Retina PNG.
+- **Share Card:** Generates a 6-month summary card and exports it as a PNG.
 - **Environment Stats:** Shows connected MCP servers, skills, commands run, and files edited.
-- **Plugin Usage:** Tracks most used tools and MCPs (@blender, @playwright, etc.).
+- **Plugin Usage:** Tracks most used tools and MCPs (@playwright, etc.).
 - **Customization:** Upload a custom avatar or pick custom initials, display name, handle, and colors. All edits are saved locally.
 - **Metric Reference:** Built-in guide explaining how all metrics are calculated.
 
@@ -32,7 +32,7 @@ Profile-Antigravity/
 ### 1. Requirements
 
 - Python 3.8+ (no extra packages needed, uses standard library only)
-- Any modern browser
+- Any browser or antigravity
 
 ### 2. Parse Your Activity Data
 
